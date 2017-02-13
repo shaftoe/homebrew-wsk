@@ -12,7 +12,9 @@ class Wsk < Formula
     <<-EOS.undent
       Until OpenWhisk project does not provide an official version for the CLI tools,
       to upgrade we must uninstall/install the formula:
+
       $ brew uninstall shaftoe/wsk/wsk && brew cleanup shaftoe/wsk/wsk && brew install shaftoe/wsk/wsk
+
       Refer to https://github.com/shaftoe/homebrew-wsk for more details.
     EOS
   end

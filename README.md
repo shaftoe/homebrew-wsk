@@ -1,4 +1,4 @@
-# OpenWhisk CLI tool (`wsk`) formula for the Homebrew package manager
+# OpenWhisk CLI tool (*wsk*) formula for the Homebrew package manager
 
 Official OpenWhisk documentation is [here](https://console.ng.bluemix.net/openwhisk/cli). To install `wsk` command line tool using [Homebrew](http://brew.sh/), simply run:
 
