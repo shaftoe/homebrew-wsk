@@ -1,4 +1,4 @@
-# This project is no longer maintained, please use see [github.com/ssx/homebrew-wsk](https://github.com/ssx/homebrew-wsk)
+# This project is no longer maintained, please use [github.com/ssx/homebrew-wsk](https://github.com/ssx/homebrew-wsk)
 
 --- 
 
